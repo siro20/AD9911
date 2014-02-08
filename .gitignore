@@ -16,3 +16,16 @@
 *.exe
 *.out
 *.app
+*.elf
+*.bin
+*.hex
+
+# Mapping
+*.lst
+*.map
+
+# Symbols
+*.sym
+
+# disassembly listings
+*.lss
